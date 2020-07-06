@@ -52,7 +52,6 @@ License
 
 This project is lincensed under MIT License.
 
-[//]:
 
 
    [server-autostart]: <https://github.com/brxnter/server-autostart>

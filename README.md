@@ -42,7 +42,7 @@ on the stop) block:
 on the restart) block:
 
 - 	screen -XS $srv_name -p 0 quit
-	cd $srv_dir && screen -AmdS $srv_name (copy args from line 34)
+-	cd $srv_dir && screen -AmdS $srv_name (copy args from line 34)
 
 
 
